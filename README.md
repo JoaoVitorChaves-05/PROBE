@@ -100,17 +100,66 @@ Ambos os sexos apresentam crescimento no percentual de denúncias de bullying ao
 
 ### 📊 Dados Comparativos
 
-| Categoria                  | 2017-2019 | 2020-2021 | Variação   | 
-|----------------------------|-----------|-----------|------------|
-| **Não sofrem**             | 5000      | 3000      | ▼ 40%      |
-| **Sofrem sem psicofármacos** | 1500      | 4000      | ▲ 167%     |
-| **Sofrem com psicofármacos** | 500       | 1000      | ▲ 100%     |
-| **Total com sofrimento**   | 2000      | 5000      | ▲ 150%     |
+| Categoria                    | 2017-2019     | 2020-2021    | Variação relativa   | 
+|------------------------------|---------------|--------------|---------------------|
+| **Total**                    | 8414 (58,6%)  | 5934 (41,4%) | ▼ 29,36%            |
+| **Não sofrem**               | 7129 (87,3%)  | 5015 (84,5%) | ▼ 3,21%             |
+| **Sofrem sem psicofármacos** | 828 (10,1%)   | 759 (12,7%)  | ▲ 25,74%            |
+| **Sofrem com psicofármacos** | 201 (2,4%)    | 160 (2,6%)   | ▲ 8,33%             |
+| **Total com sofrimento**     | 1029 (12,5%)  | 919 (15,3%)  | ▲ 22,4%             |
 
-### 🔍 Principais Achados
+### 🧠 Teste de hipótese:
+- H₀ (nula): A distribuição dos tipos de sofrimento é igual nos dois períodos.
+- H₁ (alternativa): A distribuição difere entre os períodos.
 
-1. **Impacto da Pandemia**:
-   - Queda de 40% nos estudantes sem queixas
-   - Aumento de 167% nos casos não medicados
+#### Tabela de valores de observados
+| Categoria                    | 2017-2019     | 2020-2021    | Total               | 
+|------------------------------|---------------|--------------|---------------------|
+| **Não sofrem**               | 7129 (87,3%)  | 5015 (84,5%) | 12144               |
+| **Sofrem sem psicofármacos** | 828 (10,1%)   | 759 (12,7%)  | 1587                |
+| **Sofrem com psicofármacos** | 201 (2,4%)    | 160 (2,6%)   | 361                 |
+| **Total**                    | 8414 (58,6%)  | 5934 (41,4%) | 14348               |
+
+#### Tabela de valores esperados
+| Categoria                    | 2017-2019          | 2020-2021         | Total   |
+|-----------------------------|--------------------|-------------------|---------|
+| Não sofrem                  | 7129,3 (58,7%)     | 5014,7 (41,3%)    | 12144   |
+| Sofrem sem psicofármacos    | 929,5 (58,6%)      | 657,5 (41,4%)     | 1587    |
+| Sofrem com psicofármacos    | 210,2 (58,2%)      | 150,8 (41,8%)     | 361     |
+| Total                       | 8414 (58,6%)       | 5934 (41,4%)      | 14348   |
+
+#### Calculando Qui-Quadrado de Pearson com 2 graus de liberdade
+$$
+\chi^2 = \sum \frac{(O - E)^2}{E} = 27,28
+$$
+
+#### Conclusão do cálculo:
+
+- Seu X^2 = 27,28 é muito maior do que todos os valores da linha com 2 graus de liberdade
+- Isso significa que a probabilidade de obter um X^2 >= 27,28 é menor que 0,005
+- Isso implica em rejeição forte da hipótese nula H0.
+- Em linguagem simples: a diferença entre os anos não é por acaso.
+
+### 🔻 Queda no Total de Respostas
+- O total de estudantes que responderam caiu de **8414 para 5934**, uma **redução de 29,36%**.
+- Isso pode refletir menor engajamento ou mudanças no acesso durante a pandemia.
+
+### ✅ Estabilidade nos Casos Sem Sofrimento Mental
+- Percentual caiu de **87,3% para 84,5%** (**queda de 3,21%**).
+- Ainda é a maioria, mas houve uma leve piora geral.
+
+### ⚠️ Aumento de Sofrimento Mental sem Psicofármacos
+- Passou de **10,1% para 12,7%**, um **aumento de 25,74%**.
+- Indica que mais alunos apresentaram sofrimento, mas sem uso de medicação.
+
+### ⚕️ Uso de Psicofármacos
+- Subiu levemente de **2,4% para 2,6%** (**aumento de 8,33%**).
+- Mostra que uma pequena parcela recorreu a tratamento medicamentoso.
+
+### 📈 Aumento Total do Sofrimento Mental
+- Percentual total com sofrimento (com ou sem medicamentos) subiu de **12,5% para 15,3%**, um **aumento de 22,4%**.
+
+### ✅ Conclusão
+Entre 2020 e 2021, houve um aumento relevante no sofrimento mental dos estudantes da UNIFESP, com destaque para os que não utilizam psicofármacos. O cenário reforça a necessidade de políticas institucionais de acolhimento psicológico, especialmente em contextos de crise como a pandemia.
 
 ---
