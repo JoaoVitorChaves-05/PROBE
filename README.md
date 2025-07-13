@@ -33,3 +33,63 @@ Historicamente, meninos eram os principais a relatar bullying. A partir de 2019,
 ---
 
 **Fonte das imagens: autoria própria.**
+
+---
+
+## 3. Análise de Tendência com Regressão Linear
+
+### 📈 Contexto
+Foi aplicada uma regressão linear para analisar a evolução do percentual de alunos que relataram casos de bullying entre os anos de 2009 e 2019, separando por sexo (meninos e meninas).
+
+### 🔵 Meninos
+- **Equação da reta**: y = 0,5786·x - 1,116
+- **Interpretação**: crescimento anual médio de aproximadamente **0,58 pontos percentuais**.
+- **Coeficiente de determinação (R²)**: **0,9688**
+  - 96,88% da variação nos dados é explicada pela linha de tendência.
+  - Excelente ajuste do modelo linear.
+
+### 🟣 Meninas
+- **Equação da reta**: y = 1,9916·x - 9,373
+- **Interpretação**: crescimento anual médio de aproximadamente **1,99 pontos percentuais** — **mais de 3 vezes** o crescimento dos meninos.
+- **Coeficiente de determinação (R²)**: **0,9787**
+  - 97,87% da variação nos dados é explicada pela linha de tendência.
+  - Ajuste ainda melhor que o dos meninos.
+
+### ✅ Conclusão
+Ambos os sexos apresentam crescimento no percentual de denúncias de bullying ao longo do tempo, mas o ritmo de crescimento entre as meninas é significativamente maior. A qualidade dos ajustes (R² > 0,96) indica que a regressão linear é um modelo confiável para essa análise.
+
+---
+
+## Análise Consolidada: Isolamento Social em Estudantes (2012, 2015, 2019)
+
+### 📊 Dados Comparativos por Região
+
+| Região        | 2012   | 2015   | 2019   | Tendência 2012-2019 |
+|---------------|--------|--------|--------|---------------------|
+| Norte         | 3,8%   | 4,5%   | 4,3%   | ▲ 13%               |
+| Nordeste      | 2,8%   | 3,2%   | 3,1%   | ▲ 11%               |
+| Sudeste       | 3,2%   | 3,2%   | 3,0%   | ▼ 6%                |
+| Sul           | 3,0%   | 2,8%   | 2,7%   | ▼ 10%               |
+| Centro-Oeste  | 3,7%   | 3,9%   | 3,4%   | ▼ 8%                |
+
+**Legenda**:
+- ▲ = Aumento
+- ▼ = Redução
+
+### 🔍 Principais Achados
+
+1. **Tendências Regionais**:
+   - Norte: Pico em 2015 (+0,7pp), ainda acima de 2012
+   - Sul: Redução constante (-0,3pp por pesquisa)
+   - Sudeste: Estabilidade com leve melhora
+
+### ✅ Conclusões
+1. **Prioridades**:  
+   - Intervenções no Norte (índices persistentemente altos)  
+   - Manutenção de políticas no Sul (modelo de sucesso)  
+
+2. **Recomendações**:  
+   - Expandir programas de integração escolar  
+   - Monitorar uso excessivo de redes sociais  
+
+**Fonte**: PeNSE/IBGE (2012-2019) | Valores em porcentagem  
