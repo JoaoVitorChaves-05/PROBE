@@ -32,10 +32,6 @@ Historicamente, meninos eram os principais a relatar bullying. A partir de 2019,
 
 ---
 
-**Fonte das imagens: autoria própria.**
-
----
-
 ## 3. Análise de Tendência com Regressão Linear
 
 ### 📈 Contexto
@@ -96,4 +92,25 @@ Ambos os sexos apresentam crescimento no percentual de denúncias de bullying ao
 - **Ampliar programas de integração social nas escolas**, especialmente no Nordeste e Norte.
 - **Investir em boas práticas regionais**, como as do Sul, promovendo a troca de experiências e estratégias entre redes de ensino.
 
-**Fonte**: PeNSE/IBGE (2012-2019) | Valores em porcentagem  
+**Fonte**: PeNSE/IBGE (2012-2019) | Valores em porcentagem
+
+---
+
+## 5. Análise: Sofrimento Mental em Estudantes da UNIFESP (2017-2021)
+
+### 📊 Dados Comparativos
+
+| Categoria                  | 2017-2019 | 2020-2021 | Variação   | 
+|----------------------------|-----------|-----------|------------|
+| **Não sofrem**             | 5000      | 3000      | ▼ 40%      |
+| **Sofrem sem psicofármacos** | 1500      | 4000      | ▲ 167%     |
+| **Sofrem com psicofármacos** | 500       | 1000      | ▲ 100%     |
+| **Total com sofrimento**   | 2000      | 5000      | ▲ 150%     |
+
+### 🔍 Principais Achados
+
+1. **Impacto da Pandemia**:
+   - Queda de 40% nos estudantes sem queixas
+   - Aumento de 167% nos casos não medicados
+
+---
