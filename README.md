@@ -60,7 +60,7 @@ Ambos os sexos apresentam crescimento no percentual de denúncias de bullying ao
 
 ---
 
-## Análise Consolidada: Isolamento Social em Estudantes (2012, 2015, 2019)
+## 4. Análise Consolidada: Isolamento Social em Estudantes (2012, 2015, 2019)
 
 ### 📊 Dados Comparativos por Região
 
