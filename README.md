@@ -66,11 +66,11 @@ Ambos os sexos apresentam crescimento no percentual de denúncias de bullying ao
 
 | Região        | 2012   | 2015   | 2019   | Tendência 2012-2019 |
 |---------------|--------|--------|--------|---------------------|
-| Norte         | 3,8%   | 4,5%   | 4,3%   | ▲ 13%               |
-| Nordeste      | 2,8%   | 3,2%   | 3,1%   | ▲ 11%               |
-| Sudeste       | 3,2%   | 3,2%   | 3,0%   | ▼ 6%                |
-| Sul           | 3,0%   | 2,8%   | 2,7%   | ▼ 10%               |
-| Centro-Oeste  | 3,7%   | 3,9%   | 3,4%   | ▼ 8%                |
+| Norte         | 3,61%  | 4,51%  | 3,59%  | ▼ 1%                |
+| Nordeste      | 2,9%   | 3,9%   | 3,68%  | ▲ 27%               |
+| Sudeste       | 3,08%  | 3,65%  | 3,08%  | - 0%                |
+| Sul           | 2,93%  | 3,33%  | 2,7%   | ▼ 7,85%              |
+| Centro-Oeste  | 3,83%  | 4,53%  | 3,93%  | ▲ 2,61%              |
 
 **Legenda**:
 - ▲ = Aumento
@@ -78,18 +78,22 @@ Ambos os sexos apresentam crescimento no percentual de denúncias de bullying ao
 
 ### 🔍 Principais Achados
 
-1. **Tendências Regionais**:
-   - Norte: Pico em 2015 (+0,7pp), ainda acima de 2012
-   - Sul: Redução constante (-0,3pp por pesquisa)
-   - Sudeste: Estabilidade com leve melhora
+1. **Nordeste e Centro-Oeste** registraram aumento no percentual de estudantes sem amigos próximos entre 2012 e 2019 — destaque para o **Nordeste**, com crescimento de 27%.
+2. **Sul** apresentou a maior redução proporcional (−7,85%), com melhora contínua ao longo dos anos.
+3. **Sudeste** manteve estabilidade nos três períodos, com leve variação em 2015, retornando ao patamar de 2012.
+4. **Norte** teve um pico preocupante em 2015, mas voltou praticamente ao nível inicial em 2019.
+
 
 ### ✅ Conclusões
-1. **Prioridades**:  
-   - Intervenções no Norte (índices persistentemente altos)  
-   - Manutenção de políticas no Sul (modelo de sucesso)  
 
-2. **Recomendações**:  
-   - Expandir programas de integração escolar  
-   - Monitorar uso excessivo de redes sociais  
+- **Regiões em Alerta**: Nordeste e Norte merecem atenção por apresentarem os maiores percentuais e/ou crescimento do isolamento social.
+- **Exemplo Positivo**: O Sul mostra uma trajetória consistente de queda, podendo servir de modelo para outras regiões.
+- **Estabilidade**: O Sudeste permanece com níveis constantes, o que indica possível efetividade de políticas já em vigor.
+
+
+### 📌 Recomendações
+
+- **Ampliar programas de integração social nas escolas**, especialmente no Nordeste e Norte.
+- **Investir em boas práticas regionais**, como as do Sul, promovendo a troca de experiências e estratégias entre redes de ensino.
 
 **Fonte**: PeNSE/IBGE (2012-2019) | Valores em porcentagem  
