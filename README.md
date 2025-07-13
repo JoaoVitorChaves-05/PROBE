@@ -163,3 +163,36 @@ $$
 Entre 2020 e 2021, houve um aumento relevante no sofrimento mental dos estudantes da UNIFESP, com destaque para os que não utilizam psicofármacos. O cenário reforça a necessidade de políticas institucionais de acolhimento psicológico, especialmente em contextos de crise como a pandemia.
 
 ---
+
+## 🧾 Conclusão Geral
+
+O presente trabalho analisou diferentes aspectos do **bullying e sofrimento mental em estudantes brasileiros**, com recortes por tempo, região, sexo e período pandêmico, revelando tendências significativas e preocupantes.
+
+### 🧠 1. Evolução do bullying no tempo e por região
+Os dados demonstram um crescimento progressivo nos relatos de bullying entre 2008 e 2015, seguido de **estabilização ou leve queda em 2019**. No entanto, destaca-se a **redistribuição geográfica**, com as regiões **Norte e Nordeste** superando o Sul e o Sudeste em prevalência de relatos — uma inversão preocupante que sugere maior vulnerabilidade ou melhoria nos mecanismos de denúncia nessas áreas.
+
+### 🚻 2. A virada de gênero
+Historicamente, os meninos lideravam os relatos de bullying. A partir de 2019, essa tendência se inverteu, com **as meninas passando a denunciar mais casos** em todas as regiões, sobretudo nas mais populosas. Regressões lineares mostraram que o **ritmo de crescimento nas denúncias femininas é mais que o triplo** do masculino, com excelente ajuste estatístico (R² > 0,96), indicando mudanças culturais importantes na percepção, enfrentamento e expressão do problema.
+
+### 🤝 3. Isolamento social entre estudantes
+A análise regional sobre alunos sem amigos próximos aponta para **um aumento preocupante no Nordeste (▲27%)** e **redução positiva no Sul (▼7,85%)**. Enquanto o Sudeste apresenta estabilidade, o Norte demonstrou oscilação. Esses dados evidenciam desigualdades sociais e emocionais no ambiente escolar, com necessidade de **ações específicas por região**.
+
+### 📉 4. Sofrimento mental na universidade (UNIFESP) e impacto da pandemia
+A análise entre os períodos **pré e durante a pandemia (2017–2019 vs. 2020–2021)** revelou:
+
+- **Queda na participação** (−29,36%), possivelmente causada por dificuldades de acesso ou desmobilização em contexto remoto.
+- **Aumento do sofrimento mental total** (de 12,5% para 15,3%).
+- **Crescimento expressivo** nos casos de sofrimento **sem uso de psicofármacos** (▲25,74%), indicando demanda não medicada por apoio emocional.
+- O **teste qui-quadrado de Pearson (χ² = 27,28; p < 0,005)** confirma que a mudança nas distribuições entre os períodos **não é aleatória**, mas estatisticamente significativa.
+
+---
+
+## 📌 Considerações Finais
+
+O bullying, o isolamento social e o sofrimento mental entre estudantes **são problemas multifacetados e interligados**, que afetam diferentes públicos de formas distintas ao longo do tempo. Evidenciam-se:
+
+- **Mudanças de perfil nas vítimas** (mais meninas, mais regiões historicamente vulneráveis).
+- **Impactos da pandemia** no bem-estar emocional de universitários.
+- **A importância da atuação regionalizada**, com políticas baseadas em dados e evidências.
+
+As análises reforçam a urgência de **estratégias institucionais de prevenção, acolhimento e monitoramento contínuo**, tanto no ensino básico quanto no superior. O cuidado com a saúde mental e o enfrentamento do bullying não são apenas pautas educacionais, mas também **questões de saúde pública e justiça social**.
